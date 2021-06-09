@@ -121,7 +121,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Windchasers/windchaers.github.io.git
+  repo: https://github.com/Windchasers/2049
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
 
